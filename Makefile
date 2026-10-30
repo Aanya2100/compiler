@@ -8,7 +8,8 @@ all: optimizer
 optimizer: $(OBJ)
 	$(CC) $(CFLAGS) -o optimizer $(OBJ)
 
-server: server
+server: server.c tac.o c_frontend.o analyzer.o optimizer.o llm_agent.o verifier.o cost.o orchestrator.o dataset.o logger.o csv.o
+	$(CC) $(CFLAGS) -o server server.c tac.o c_frontend.o analyzer.o optimizer.o llm_agent.o verifier.o cost.o orchestrator.o dataset.o logger.o csv.o
 
 run-server: server
 	./server
