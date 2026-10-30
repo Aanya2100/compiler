@@ -40,12 +40,12 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 
-#include "../tac.h"
-#include "../orchestrator.h"
-#include "../cost.h"
-#include "../verifier.h"
-#include "../c_frontend.h"
-#include "../csv.h"
+#include "tac.h"
+#include "orchestrator.h"
+#include "cost.h"
+#include "verifier.h"
+#include "c_frontend.h"
+#include "csv.h"
 
 #define BUFFER_SIZE (1024 * 1024 + 8192)
 static int next_web_program_id = 100000;
