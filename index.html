@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Compiler Optimizer</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">LOCAL COMPILER TOOL</p>
+      <h1>Compiler Optimizer</h1>
+      <p class="subtitle">C source → three-address code → verified optimization</p>
+    </div>
+    <div id="serverStatus" class="status" role="status">Connecting to local backend…</div>
+  </header>
+
+  <main>
+    <section class="card input-card">
+      <div class="section-heading">
+        <div>
+          <h2>Program input</h2>
+          <p>Run a C program through the compiler front end, or optimize TAC directly.</p>
+        </div>
+        <button id="run" class="primary">▶ Run compiler and optimizer</button>
+      </div>
+
+      <div class="tabs" role="tablist" aria-label="Input type">
+        <button class="tab active" id="cTab" role="tab" aria-selected="true">C source</button>
+        <button class="tab" id="tacTab" role="tab" aria-selected="false">TAC</button>
+        <button class="tab" id="compareTab" role="tab" aria-selected="false">Candidate check</button>
+      </div>
+
+      <label id="cLabel" class="input-label" for="cInput">C program</label>
+      <textarea id="cInput" spellcheck="false" aria-label="C program">int main(void) {
+    int a = 5 + 3;
+    int b = a * 1;
+    int result = b + 0;
+    return result;
+}</textarea>
+
+      <label id="tacLabel" class="input-label hidden" for="tacInput">Three-address code</label>
+      <textarea id="tacInput" class="hidden" spellcheck="false" aria-label="Three-address code">t1 = 5 + 3
+ t2 = t1 + 0
+ t3 = a + b
+ t4 = a + b
+ t5 = t4 * 1
+ t6 = 100
+ t7 = t2 * 2
+return t7</textarea>
+
+      <div id="compareInputs" class="hidden">
+        <label class="input-label" for="originalInput">Original TAC</label>
+        <textarea id="originalInput" spellcheck="false" aria-label="Original TAC">t1 = a + b
+return t1</textarea>
+        <label class="input-label" for="candidateInput">Proposed candidate TAC</label>
+        <textarea id="candidateInput" spellcheck="false" aria-label="Proposed candidate TAC">t1 = a + b
+t2 = a + b
+t3 = t1 + 0
+return t3</textarea>
+      </div>
+
+    </section>
+
+    <section class="pipeline-card card">
+      <h2>Compiler pipeline</h2>
+      <div class="pipeline"><span>INPUT</span><i>→</i><span id="frontEndStep">C → TAC</span><i>→</i><span>ANALYZE</span><i>→</i><span>PROPOSE</span><i>→</i><span>VERIFY</span><i>→</i><span>COST GATE</span></div>
+    </section>
+
+    <section class="results-grid">
+      <article class="card"><div class="section-heading"><h2>Generated TAC</h2><span id="sourceLabel" class="badge">C front end</span></div><pre id="generated">Run a program to see its TAC.</pre></article>
+      <article class="card"><div class="section-heading"><h2>Optimized TAC</h2><span id="decision" class="badge">Waiting</span></div><pre id="optimized">The verified optimizer result will appear here.</pre></article>
+    </section>
+
+    <section class="metrics" aria-label="Optimization metrics">
+      <article class="card"><small>Output verification</small><strong id="verify">—</strong></article>
+      <article class="card"><small>Cost before</small><strong id="before">—</strong></article>
+      <article class="card"><small>Cost after</small><strong id="after">—</strong></article>
+      <article class="card"><small>Cost reduction</small><strong id="reduce">—</strong></article>
+    </section>
+
+    <section class="results-grid">
+      <article class="card"><h2>Optimization summary</h2><pre id="summary">The native C optimizer handles analysis, verification, and cost evaluation.</pre></article>
+      <article class="card"><h2>Decision details</h2><pre id="log">No optimization request has run yet.</pre></article>
+    </section>
+
+    <section class="card dataset-card">
+      <h2>Dataset</h2>
+      <p>The command-line runner generates and processes 600 TAC programs across seven categories. Use <code>./optimizer --count N</code> for a dataset size from 200 to 600.</p>
+    </section>
+  </main>
+
+  <footer>Runs locally through the native C optimizer. No hosted service is required.</footer>
+  <script src="/script.js"></script>
+</body>
+</html>

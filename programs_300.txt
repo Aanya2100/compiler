@@ -1,0 +1,2616 @@
+# Generated TAC dataset
+PROGRAM 001
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 002
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 003
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 004
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 005
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 006
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 007
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 008
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 009
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 010
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 011
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 012
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 013
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 014
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 015
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 016
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 017
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 018
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 019
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 020
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 021
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 022
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 023
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 024
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 025
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 026
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 027
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 028
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 029
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 030
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 031
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 032
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 033
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 034
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 035
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 036
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 037
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 038
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 039
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 040
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 041
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 042
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 043
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 044
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 045
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 046
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 047
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 048
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 049
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 050
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 051
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 052
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 053
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 054
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 055
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 056
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 057
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 058
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 059
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 060
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 061
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 062
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 063
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 064
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 065
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 066
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 067
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 068
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 069
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 070
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 071
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 072
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 073
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 074
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 075
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 076
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 077
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 078
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 079
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 080
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 081
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 082
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 083
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 084
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 085
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 086
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 087
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 088
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 089
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 090
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 091
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 092
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 093
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 094
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 095
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 096
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 097
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 098
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 099
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 100
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 101
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 102
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 103
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 104
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 105
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 106
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 107
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 108
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 109
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 110
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 111
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 112
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 113
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 114
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 115
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 116
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 117
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 118
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 119
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 120
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 121
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 122
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 123
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 124
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 125
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 126
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 127
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 128
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 129
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 130
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 131
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 132
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 133
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 134
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 135
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 136
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 137
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 138
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 139
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 140
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 141
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 142
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 143
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 144
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 145
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 146
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 147
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 148
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 149
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 150
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 151
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 152
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 153
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 154
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 155
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 156
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 157
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 158
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 159
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 160
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 161
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 162
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 163
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 164
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 165
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 166
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 167
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 168
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 169
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 170
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 171
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 172
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 173
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 174
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 175
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 176
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 177
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 178
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 179
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 180
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 181
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 182
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 183
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 184
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 185
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 186
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 187
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 188
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 189
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 190
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 191
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 192
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 193
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 194
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 195
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 196
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 197
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 198
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 199
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 200
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 201
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 202
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 203
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 204
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 205
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 206
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 207
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 208
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 209
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 210
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 211
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 212
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 213
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 214
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 215
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 216
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 217
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 218
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 219
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 220
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 221
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 222
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 223
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 224
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 225
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 226
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 227
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 228
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 229
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 230
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 231
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 232
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 233
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 234
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 235
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 236
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 237
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 238
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 239
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 240
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 241
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 242
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 243
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 244
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 245
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 246
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 247
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 248
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 249
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 250
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 251
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 252
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 253
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 254
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 255
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 256
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 257
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 258
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 259
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 260
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 261
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 262
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 263
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 264
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 265
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 266
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 267
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 268
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 269
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 270
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 271
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 272
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 273
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 274
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 275
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 276
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 277
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 278
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 279
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 280
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 281
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 282
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 283
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 284
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 285
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 286
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 287
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 288
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 289
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 290
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 291
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 292
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 293
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END
+PROGRAM 294
+CATEGORY Arithmetic
+OUTPUT t4
+t1|5|+|7
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+END
+PROGRAM 295
+CATEGORY Nested
+OUTPUT t4
+t1|a|+|b
+t2|t1|*|1
+t3|t2|-|0
+t4|t3|*|3
+END
+PROGRAM 296
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|b
+t2|c|*|d
+t3|a|+|b
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 297
+CATEGORY DeadCode
+OUTPUT t3
+t1|a|+|b
+t2|99|=|
+t3|t1|*|2
+t4|77|=|
+END
+PROGRAM 298
+CATEGORY Loop
+OUTPUT t5
+t1|a|+|1
+t2|t1|+|1
+t3|t2|+|1
+t4|t3|*|1
+t5|t4|+|0
+END
+PROGRAM 299
+CATEGORY Conditional
+OUTPUT t4
+t1|a|*|1
+t2|b|+|0
+t3|t1|+|t2
+t4|t3|*|1
+END
+PROGRAM 300
+CATEGORY Mixed
+OUTPUT t7
+t1|5|+|3
+t2|t1|+|0
+t3|a|+|b
+t4|a|+|b
+t5|t4|*|1
+t6|100|=|
+t7|t2|*|2
+END

@@ -1,0 +1,7561 @@
+# Generated TAC dataset (600 programs)
+PROGRAM 001
+CATEGORY Arithmetic
+OUTPUT t5
+t1|3|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|3
+t5|t3|+|t4
+END
+PROGRAM 002
+CATEGORY Arithmetic
+OUTPUT t5
+t1|4|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|4
+t5|t3|+|t4
+END
+PROGRAM 003
+CATEGORY Arithmetic
+OUTPUT t5
+t1|5|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|5
+t5|t3|+|t4
+END
+PROGRAM 004
+CATEGORY Arithmetic
+OUTPUT t5
+t1|6|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|6
+t5|t3|+|t4
+END
+PROGRAM 005
+CATEGORY Arithmetic
+OUTPUT t5
+t1|7|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|7
+t5|t3|+|t4
+END
+PROGRAM 006
+CATEGORY Arithmetic
+OUTPUT t5
+t1|8|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|8
+t5|t3|+|t4
+END
+PROGRAM 007
+CATEGORY Arithmetic
+OUTPUT t5
+t1|9|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|9
+t5|t3|+|t4
+END
+PROGRAM 008
+CATEGORY Arithmetic
+OUTPUT t5
+t1|10|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|10
+t5|t3|+|t4
+END
+PROGRAM 009
+CATEGORY Arithmetic
+OUTPUT t5
+t1|11|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|11
+t5|t3|+|t4
+END
+PROGRAM 010
+CATEGORY Arithmetic
+OUTPUT t5
+t1|12|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|12
+t5|t3|+|t4
+END
+PROGRAM 011
+CATEGORY Arithmetic
+OUTPUT t5
+t1|13|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|13
+t5|t3|+|t4
+END
+PROGRAM 012
+CATEGORY Arithmetic
+OUTPUT t5
+t1|14|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|14
+t5|t3|+|t4
+END
+PROGRAM 013
+CATEGORY Arithmetic
+OUTPUT t5
+t1|15|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|15
+t5|t3|+|t4
+END
+PROGRAM 014
+CATEGORY Arithmetic
+OUTPUT t5
+t1|16|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|16
+t5|t3|+|t4
+END
+PROGRAM 015
+CATEGORY Arithmetic
+OUTPUT t5
+t1|17|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|17
+t5|t3|+|t4
+END
+PROGRAM 016
+CATEGORY Arithmetic
+OUTPUT t5
+t1|18|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|18
+t5|t3|+|t4
+END
+PROGRAM 017
+CATEGORY Arithmetic
+OUTPUT t5
+t1|19|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|19
+t5|t3|+|t4
+END
+PROGRAM 018
+CATEGORY Arithmetic
+OUTPUT t5
+t1|20|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|20
+t5|t3|+|t4
+END
+PROGRAM 019
+CATEGORY Arithmetic
+OUTPUT t5
+t1|21|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|21
+t5|t3|+|t4
+END
+PROGRAM 020
+CATEGORY Arithmetic
+OUTPUT t5
+t1|22|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|22
+t5|t3|+|t4
+END
+PROGRAM 021
+CATEGORY Arithmetic
+OUTPUT t5
+t1|23|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|23
+t5|t3|+|t4
+END
+PROGRAM 022
+CATEGORY Arithmetic
+OUTPUT t5
+t1|24|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|24
+t5|t3|+|t4
+END
+PROGRAM 023
+CATEGORY Arithmetic
+OUTPUT t5
+t1|25|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|25
+t5|t3|+|t4
+END
+PROGRAM 024
+CATEGORY Arithmetic
+OUTPUT t5
+t1|26|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|26
+t5|t3|+|t4
+END
+PROGRAM 025
+CATEGORY Arithmetic
+OUTPUT t5
+t1|27|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|27
+t5|t3|+|t4
+END
+PROGRAM 026
+CATEGORY Arithmetic
+OUTPUT t5
+t1|28|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|28
+t5|t3|+|t4
+END
+PROGRAM 027
+CATEGORY Arithmetic
+OUTPUT t5
+t1|29|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|29
+t5|t3|+|t4
+END
+PROGRAM 028
+CATEGORY Arithmetic
+OUTPUT t5
+t1|30|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|30
+t5|t3|+|t4
+END
+PROGRAM 029
+CATEGORY Arithmetic
+OUTPUT t5
+t1|31|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|31
+t5|t3|+|t4
+END
+PROGRAM 030
+CATEGORY Arithmetic
+OUTPUT t5
+t1|32|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|32
+t5|t3|+|t4
+END
+PROGRAM 031
+CATEGORY Arithmetic
+OUTPUT t5
+t1|33|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|2
+t5|t3|+|t4
+END
+PROGRAM 032
+CATEGORY Arithmetic
+OUTPUT t5
+t1|34|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|3
+t5|t3|+|t4
+END
+PROGRAM 033
+CATEGORY Arithmetic
+OUTPUT t5
+t1|35|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|4
+t5|t3|+|t4
+END
+PROGRAM 034
+CATEGORY Arithmetic
+OUTPUT t5
+t1|36|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|5
+t5|t3|+|t4
+END
+PROGRAM 035
+CATEGORY Arithmetic
+OUTPUT t5
+t1|37|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|6
+t5|t3|+|t4
+END
+PROGRAM 036
+CATEGORY Arithmetic
+OUTPUT t5
+t1|38|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|7
+t5|t3|+|t4
+END
+PROGRAM 037
+CATEGORY Arithmetic
+OUTPUT t5
+t1|39|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|8
+t5|t3|+|t4
+END
+PROGRAM 038
+CATEGORY Arithmetic
+OUTPUT t5
+t1|40|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|9
+t5|t3|+|t4
+END
+PROGRAM 039
+CATEGORY Arithmetic
+OUTPUT t5
+t1|41|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|10
+t5|t3|+|t4
+END
+PROGRAM 040
+CATEGORY Arithmetic
+OUTPUT t5
+t1|42|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|11
+t5|t3|+|t4
+END
+PROGRAM 041
+CATEGORY Arithmetic
+OUTPUT t5
+t1|43|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|12
+t5|t3|+|t4
+END
+PROGRAM 042
+CATEGORY Arithmetic
+OUTPUT t5
+t1|44|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|13
+t5|t3|+|t4
+END
+PROGRAM 043
+CATEGORY Arithmetic
+OUTPUT t5
+t1|45|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|14
+t5|t3|+|t4
+END
+PROGRAM 044
+CATEGORY Arithmetic
+OUTPUT t5
+t1|46|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|15
+t5|t3|+|t4
+END
+PROGRAM 045
+CATEGORY Arithmetic
+OUTPUT t5
+t1|47|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|16
+t5|t3|+|t4
+END
+PROGRAM 046
+CATEGORY Arithmetic
+OUTPUT t5
+t1|48|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|17
+t5|t3|+|t4
+END
+PROGRAM 047
+CATEGORY Arithmetic
+OUTPUT t5
+t1|49|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|18
+t5|t3|+|t4
+END
+PROGRAM 048
+CATEGORY Arithmetic
+OUTPUT t5
+t1|50|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|19
+t5|t3|+|t4
+END
+PROGRAM 049
+CATEGORY Arithmetic
+OUTPUT t5
+t1|51|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|20
+t5|t3|+|t4
+END
+PROGRAM 050
+CATEGORY Arithmetic
+OUTPUT t5
+t1|52|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|21
+t5|t3|+|t4
+END
+PROGRAM 051
+CATEGORY Arithmetic
+OUTPUT t5
+t1|53|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|22
+t5|t3|+|t4
+END
+PROGRAM 052
+CATEGORY Arithmetic
+OUTPUT t5
+t1|54|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|23
+t5|t3|+|t4
+END
+PROGRAM 053
+CATEGORY Arithmetic
+OUTPUT t5
+t1|55|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|24
+t5|t3|+|t4
+END
+PROGRAM 054
+CATEGORY Arithmetic
+OUTPUT t5
+t1|56|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|25
+t5|t3|+|t4
+END
+PROGRAM 055
+CATEGORY Arithmetic
+OUTPUT t5
+t1|57|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|26
+t5|t3|+|t4
+END
+PROGRAM 056
+CATEGORY Arithmetic
+OUTPUT t5
+t1|58|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|27
+t5|t3|+|t4
+END
+PROGRAM 057
+CATEGORY Arithmetic
+OUTPUT t5
+t1|59|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|28
+t5|t3|+|t4
+END
+PROGRAM 058
+CATEGORY Arithmetic
+OUTPUT t5
+t1|60|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|29
+t5|t3|+|t4
+END
+PROGRAM 059
+CATEGORY Arithmetic
+OUTPUT t5
+t1|61|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|30
+t5|t3|+|t4
+END
+PROGRAM 060
+CATEGORY Arithmetic
+OUTPUT t5
+t1|62|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|31
+t5|t3|+|t4
+END
+PROGRAM 061
+CATEGORY Arithmetic
+OUTPUT t5
+t1|63|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|32
+t5|t3|+|t4
+END
+PROGRAM 062
+CATEGORY Arithmetic
+OUTPUT t5
+t1|64|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|2
+t5|t3|+|t4
+END
+PROGRAM 063
+CATEGORY Arithmetic
+OUTPUT t5
+t1|65|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|3
+t5|t3|+|t4
+END
+PROGRAM 064
+CATEGORY Arithmetic
+OUTPUT t5
+t1|66|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|4
+t5|t3|+|t4
+END
+PROGRAM 065
+CATEGORY Arithmetic
+OUTPUT t5
+t1|67|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|5
+t5|t3|+|t4
+END
+PROGRAM 066
+CATEGORY Arithmetic
+OUTPUT t5
+t1|68|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|6
+t5|t3|+|t4
+END
+PROGRAM 067
+CATEGORY Arithmetic
+OUTPUT t5
+t1|69|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|7
+t5|t3|+|t4
+END
+PROGRAM 068
+CATEGORY Arithmetic
+OUTPUT t5
+t1|70|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|8
+t5|t3|+|t4
+END
+PROGRAM 069
+CATEGORY Arithmetic
+OUTPUT t5
+t1|71|+|3
+t2|a|*|1
+t3|t1|+|0
+t4|t2|*|9
+t5|t3|+|t4
+END
+PROGRAM 070
+CATEGORY Arithmetic
+OUTPUT t5
+t1|72|+|3
+t2|b|*|1
+t3|t1|+|0
+t4|t2|*|10
+t5|t3|+|t4
+END
+PROGRAM 071
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|11
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 072
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|12
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 073
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|13
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 074
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|14
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 075
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|15
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 076
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|16
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 077
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|17
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 078
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|18
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 079
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|19
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 080
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|20
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 081
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|21
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 082
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|22
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 083
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|23
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 084
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|24
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 085
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|25
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 086
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|26
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 087
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|27
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 088
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|28
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 089
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|29
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 090
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|30
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 091
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|31
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 092
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|32
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 093
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|2
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 094
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|3
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 095
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|4
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 096
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|5
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 097
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|6
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 098
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|7
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 099
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|8
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 100
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|9
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 101
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|10
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 102
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|11
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 103
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|12
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 104
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|13
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 105
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|14
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 106
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|15
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 107
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|16
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 108
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|17
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 109
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|18
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 110
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|19
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 111
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|20
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 112
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|21
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 113
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|22
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 114
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|23
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 115
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|24
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 116
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|25
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 117
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|26
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 118
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|27
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 119
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|28
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 120
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|29
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 121
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|30
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 122
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|31
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 123
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|32
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 124
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|2
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 125
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|3
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 126
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|4
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 127
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|5
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 128
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|6
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 129
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|7
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 130
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|8
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 131
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|9
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 132
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|10
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 133
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|11
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 134
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|12
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 135
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|13
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 136
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|14
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 137
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|15
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 138
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|16
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 139
+CATEGORY Nested
+OUTPUT t5
+t1|a|+|c
+t2|t1|*|17
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 140
+CATEGORY Nested
+OUTPUT t5
+t1|b|+|c
+t2|t1|*|18
+t3|t2|-|1
+t4|t3|+|d
+t5|t4|/|2
+END
+PROGRAM 141
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|19
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 142
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|20
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 143
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|21
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 144
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|22
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 145
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|23
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 146
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|24
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 147
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|25
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 148
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|26
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 149
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|27
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 150
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|28
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 151
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|29
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 152
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|30
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 153
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|31
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 154
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|32
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 155
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|2
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 156
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|3
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 157
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|4
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 158
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|5
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 159
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|6
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 160
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|7
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 161
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|8
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 162
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|9
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 163
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|10
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 164
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|11
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 165
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|12
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 166
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|13
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 167
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|14
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 168
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|15
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 169
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|16
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 170
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|17
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 171
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|18
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 172
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|19
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 173
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|20
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 174
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|21
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 175
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|22
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 176
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|23
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 177
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|24
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 178
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|25
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 179
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|26
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 180
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|27
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 181
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|28
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 182
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|29
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 183
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|30
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 184
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|31
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 185
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|32
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 186
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|2
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 187
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|3
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 188
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|4
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 189
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|5
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 190
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|6
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 191
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|7
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 192
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|8
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 193
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|9
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 194
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|10
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 195
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|11
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 196
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|12
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 197
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|13
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 198
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|14
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 199
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|15
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 200
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|16
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 201
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|17
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 202
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|18
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 203
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|19
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 204
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|20
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 205
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|21
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 206
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|22
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 207
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|23
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 208
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|24
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 209
+CATEGORY CSE
+OUTPUT t5
+t1|a|+|c
+t2|d|*|25
+t3|a|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 210
+CATEGORY CSE
+OUTPUT t5
+t1|b|+|c
+t2|d|*|26
+t3|b|+|c
+t4|t3|*|1
+t5|t1|+|t4
+END
+PROGRAM 211
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|213|=|
+t3|t1|*|27
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 212
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|214|=|
+t3|t1|*|28
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 213
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|215|=|
+t3|t1|*|29
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 214
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|216|=|
+t3|t1|*|30
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 215
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|217|=|
+t3|t1|*|31
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 216
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|218|=|
+t3|t1|*|32
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 217
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|219|=|
+t3|t1|*|2
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 218
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|220|=|
+t3|t1|*|3
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 219
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|221|=|
+t3|t1|*|4
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 220
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|222|=|
+t3|t1|*|5
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 221
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|223|=|
+t3|t1|*|6
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 222
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|224|=|
+t3|t1|*|7
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 223
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|225|=|
+t3|t1|*|8
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 224
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|226|=|
+t3|t1|*|9
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 225
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|227|=|
+t3|t1|*|10
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 226
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|228|=|
+t3|t1|*|11
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 227
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|229|=|
+t3|t1|*|12
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 228
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|230|=|
+t3|t1|*|13
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 229
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|231|=|
+t3|t1|*|14
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 230
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|232|=|
+t3|t1|*|15
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 231
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|233|=|
+t3|t1|*|16
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 232
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|234|=|
+t3|t1|*|17
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 233
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|235|=|
+t3|t1|*|18
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 234
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|236|=|
+t3|t1|*|19
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 235
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|237|=|
+t3|t1|*|20
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 236
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|238|=|
+t3|t1|*|21
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 237
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|239|=|
+t3|t1|*|22
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 238
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|240|=|
+t3|t1|*|23
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 239
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|241|=|
+t3|t1|*|24
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 240
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|242|=|
+t3|t1|*|25
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 241
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|243|=|
+t3|t1|*|26
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 242
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|244|=|
+t3|t1|*|27
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 243
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|245|=|
+t3|t1|*|28
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 244
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|246|=|
+t3|t1|*|29
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 245
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|247|=|
+t3|t1|*|30
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 246
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|248|=|
+t3|t1|*|31
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 247
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|249|=|
+t3|t1|*|32
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 248
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|250|=|
+t3|t1|*|2
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 249
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|251|=|
+t3|t1|*|3
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 250
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|252|=|
+t3|t1|*|4
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 251
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|253|=|
+t3|t1|*|5
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 252
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|254|=|
+t3|t1|*|6
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 253
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|255|=|
+t3|t1|*|7
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 254
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|256|=|
+t3|t1|*|8
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 255
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|257|=|
+t3|t1|*|9
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 256
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|258|=|
+t3|t1|*|10
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 257
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|259|=|
+t3|t1|*|11
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 258
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|260|=|
+t3|t1|*|12
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 259
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|261|=|
+t3|t1|*|13
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 260
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|262|=|
+t3|t1|*|14
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 261
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|263|=|
+t3|t1|*|15
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 262
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|264|=|
+t3|t1|*|16
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 263
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|265|=|
+t3|t1|*|17
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 264
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|266|=|
+t3|t1|*|18
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 265
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|267|=|
+t3|t1|*|19
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 266
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|268|=|
+t3|t1|*|20
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 267
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|269|=|
+t3|t1|*|21
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 268
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|270|=|
+t3|t1|*|22
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 269
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|271|=|
+t3|t1|*|23
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 270
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|272|=|
+t3|t1|*|24
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 271
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|273|=|
+t3|t1|*|25
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 272
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|274|=|
+t3|t1|*|26
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 273
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|275|=|
+t3|t1|*|27
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 274
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|276|=|
+t3|t1|*|28
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 275
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|277|=|
+t3|t1|*|29
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 276
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|278|=|
+t3|t1|*|30
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 277
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|279|=|
+t3|t1|*|31
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 278
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|280|=|
+t3|t1|*|32
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 279
+CATEGORY DeadCode
+OUTPUT t5
+t1|a|+|c
+t2|281|=|
+t3|t1|*|2
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 280
+CATEGORY DeadCode
+OUTPUT t5
+t1|b|+|c
+t2|282|=|
+t3|t1|*|3
+t4|77|=|
+t5|t3|+|1
+END
+PROGRAM 281
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 282
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 283
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 284
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 285
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 286
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 287
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 288
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 289
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 290
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 291
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 292
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 293
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 294
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 295
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 296
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 297
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 298
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 299
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 300
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 301
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 302
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 303
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 304
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 305
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 306
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 307
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 308
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 309
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 310
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 311
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 312
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 313
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 314
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 315
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 316
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 317
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 318
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 319
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 320
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 321
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 322
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 323
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 324
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 325
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 326
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 327
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 328
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 329
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 330
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 331
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 332
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 333
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 334
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 335
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 336
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 337
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 338
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 339
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 340
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 341
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 342
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 343
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 344
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 345
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 346
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 347
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 348
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 349
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 350
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 351
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 352
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 353
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 354
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 355
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 356
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 357
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 358
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 359
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 360
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 361
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 362
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 363
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 364
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 365
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 366
+CATEGORY Loop
+OUTPUT sum
+i|2|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 367
+CATEGORY Loop
+OUTPUT sum
+i|3|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 368
+CATEGORY Loop
+OUTPUT sum
+i|4|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 369
+CATEGORY Loop
+OUTPUT sum
+i|5|=|
+sum|a|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 370
+CATEGORY Loop
+OUTPUT sum
+i|1|=|
+sum|b|=|
+L_loop||LABEL|
+L_body|i|IFNZ|
+|L_done|GOTO|
+L_body||LABEL|
+sum|sum|+|i
+i|i|-|1
+|L_loop|GOTO|
+L_done||LABEL|
+END
+PROGRAM 371
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|32
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|32
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 372
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|2
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|2
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 373
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|3
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|3
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 374
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|4
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|4
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 375
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|5
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|5
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 376
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|6
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|6
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 377
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|7
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|7
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 378
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|8
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|8
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 379
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|9
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|9
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 380
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|10
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|10
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 381
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|11
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|11
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 382
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|12
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|12
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 383
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|13
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|13
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 384
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|14
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|14
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 385
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|15
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|15
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 386
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|16
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|16
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 387
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|17
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|17
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 388
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|18
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|18
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 389
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|19
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|19
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 390
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|20
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|20
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 391
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|21
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|21
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 392
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|22
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|22
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 393
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|23
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|23
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 394
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|24
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|24
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 395
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|25
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|25
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 396
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|26
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|26
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 397
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|27
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|27
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 398
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|28
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|28
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 399
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|29
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|29
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 400
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|30
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|30
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 401
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|31
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|31
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 402
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|32
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|32
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 403
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|2
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|2
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 404
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|3
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|3
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 405
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|4
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|4
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 406
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|5
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|5
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 407
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|6
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|6
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 408
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|7
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|7
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 409
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|8
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|8
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 410
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|9
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|9
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 411
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|10
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|10
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 412
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|11
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|11
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 413
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|12
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|12
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 414
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|13
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|13
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 415
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|14
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|14
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 416
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|15
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|15
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 417
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|16
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|16
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 418
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|17
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|17
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 419
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|18
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|18
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 420
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|19
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|19
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 421
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|20
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|20
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 422
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|21
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|21
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 423
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|22
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|22
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 424
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|23
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|23
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 425
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|24
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|24
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 426
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|25
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|25
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 427
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|26
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|26
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 428
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|27
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|27
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 429
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|28
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|28
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 430
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|29
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|29
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 431
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|30
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|30
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 432
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|31
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|31
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 433
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|32
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|32
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 434
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|2
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|2
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 435
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|3
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|3
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 436
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|4
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|4
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 437
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|5
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|5
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 438
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|6
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|6
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 439
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|7
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|7
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 440
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|8
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|8
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 441
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|9
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|9
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 442
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|10
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|10
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 443
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|11
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|11
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 444
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|12
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|12
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 445
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|13
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|13
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 446
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|14
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|14
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 447
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|15
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|15
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 448
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|16
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|16
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 449
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|17
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|17
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 450
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|18
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|18
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 451
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|19
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|19
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 452
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|20
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|20
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 453
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|21
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|21
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 454
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|22
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|22
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 455
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|23
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|23
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 456
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|24
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|24
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 457
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|25
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|25
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 458
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|26
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|26
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 459
+CATEGORY Conditional
+OUTPUT result
+L_then|a|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|27
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|27
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 460
+CATEGORY Conditional
+OUTPUT result
+L_then|b|IFNZ|
+|L_else|GOTO|
+L_then||LABEL|
+t1|c|+|28
+result|t1|=|
+|L_done|GOTO|
+L_else||LABEL|
+t2|c|-|28
+result|t2|=|
+L_done||LABEL|
+END
+PROGRAM 461
+CATEGORY Mixed
+OUTPUT result
+t1|463|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 462
+CATEGORY Mixed
+OUTPUT result
+t1|464|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 463
+CATEGORY Mixed
+OUTPUT result
+t1|465|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 464
+CATEGORY Mixed
+OUTPUT result
+t1|466|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 465
+CATEGORY Mixed
+OUTPUT result
+t1|467|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 466
+CATEGORY Mixed
+OUTPUT result
+t1|468|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 467
+CATEGORY Mixed
+OUTPUT result
+t1|469|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 468
+CATEGORY Mixed
+OUTPUT result
+t1|470|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 469
+CATEGORY Mixed
+OUTPUT result
+t1|471|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 470
+CATEGORY Mixed
+OUTPUT result
+t1|472|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 471
+CATEGORY Mixed
+OUTPUT result
+t1|473|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 472
+CATEGORY Mixed
+OUTPUT result
+t1|474|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 473
+CATEGORY Mixed
+OUTPUT result
+t1|475|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 474
+CATEGORY Mixed
+OUTPUT result
+t1|476|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 475
+CATEGORY Mixed
+OUTPUT result
+t1|477|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 476
+CATEGORY Mixed
+OUTPUT result
+t1|478|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 477
+CATEGORY Mixed
+OUTPUT result
+t1|479|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 478
+CATEGORY Mixed
+OUTPUT result
+t1|480|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 479
+CATEGORY Mixed
+OUTPUT result
+t1|481|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 480
+CATEGORY Mixed
+OUTPUT result
+t1|482|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 481
+CATEGORY Mixed
+OUTPUT result
+t1|483|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 482
+CATEGORY Mixed
+OUTPUT result
+t1|484|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 483
+CATEGORY Mixed
+OUTPUT result
+t1|485|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 484
+CATEGORY Mixed
+OUTPUT result
+t1|486|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 485
+CATEGORY Mixed
+OUTPUT result
+t1|487|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 486
+CATEGORY Mixed
+OUTPUT result
+t1|488|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 487
+CATEGORY Mixed
+OUTPUT result
+t1|489|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 488
+CATEGORY Mixed
+OUTPUT result
+t1|490|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 489
+CATEGORY Mixed
+OUTPUT result
+t1|491|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 490
+CATEGORY Mixed
+OUTPUT result
+t1|492|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 491
+CATEGORY Mixed
+OUTPUT result
+t1|493|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 492
+CATEGORY Mixed
+OUTPUT result
+t1|494|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 493
+CATEGORY Mixed
+OUTPUT result
+t1|495|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 494
+CATEGORY Mixed
+OUTPUT result
+t1|496|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 495
+CATEGORY Mixed
+OUTPUT result
+t1|497|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 496
+CATEGORY Mixed
+OUTPUT result
+t1|498|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 497
+CATEGORY Mixed
+OUTPUT result
+t1|499|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 498
+CATEGORY Mixed
+OUTPUT result
+t1|500|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 499
+CATEGORY Mixed
+OUTPUT result
+t1|501|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 500
+CATEGORY Mixed
+OUTPUT result
+t1|502|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 501
+CATEGORY Mixed
+OUTPUT result
+t1|503|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 502
+CATEGORY Mixed
+OUTPUT result
+t1|504|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 503
+CATEGORY Mixed
+OUTPUT result
+t1|505|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 504
+CATEGORY Mixed
+OUTPUT result
+t1|506|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 505
+CATEGORY Mixed
+OUTPUT result
+t1|507|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 506
+CATEGORY Mixed
+OUTPUT result
+t1|508|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 507
+CATEGORY Mixed
+OUTPUT result
+t1|509|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 508
+CATEGORY Mixed
+OUTPUT result
+t1|510|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 509
+CATEGORY Mixed
+OUTPUT result
+t1|511|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 510
+CATEGORY Mixed
+OUTPUT result
+t1|512|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 511
+CATEGORY Mixed
+OUTPUT result
+t1|513|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 512
+CATEGORY Mixed
+OUTPUT result
+t1|514|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 513
+CATEGORY Mixed
+OUTPUT result
+t1|515|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 514
+CATEGORY Mixed
+OUTPUT result
+t1|516|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 515
+CATEGORY Mixed
+OUTPUT result
+t1|517|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 516
+CATEGORY Mixed
+OUTPUT result
+t1|518|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 517
+CATEGORY Mixed
+OUTPUT result
+t1|519|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 518
+CATEGORY Mixed
+OUTPUT result
+t1|520|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 519
+CATEGORY Mixed
+OUTPUT result
+t1|521|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 520
+CATEGORY Mixed
+OUTPUT result
+t1|522|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 521
+CATEGORY Mixed
+OUTPUT result
+t1|523|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 522
+CATEGORY Mixed
+OUTPUT result
+t1|524|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 523
+CATEGORY Mixed
+OUTPUT result
+t1|525|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 524
+CATEGORY Mixed
+OUTPUT result
+t1|526|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 525
+CATEGORY Mixed
+OUTPUT result
+t1|527|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 526
+CATEGORY Mixed
+OUTPUT result
+t1|528|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 527
+CATEGORY Mixed
+OUTPUT result
+t1|529|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 528
+CATEGORY Mixed
+OUTPUT result
+t1|530|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 529
+CATEGORY Mixed
+OUTPUT result
+t1|531|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 530
+CATEGORY Mixed
+OUTPUT result
+t1|532|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 531
+CATEGORY Mixed
+OUTPUT result
+t1|533|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 532
+CATEGORY Mixed
+OUTPUT result
+t1|534|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 533
+CATEGORY Mixed
+OUTPUT result
+t1|535|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 534
+CATEGORY Mixed
+OUTPUT result
+t1|536|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 535
+CATEGORY Mixed
+OUTPUT result
+t1|537|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 536
+CATEGORY Mixed
+OUTPUT result
+t1|538|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 537
+CATEGORY Mixed
+OUTPUT result
+t1|539|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 538
+CATEGORY Mixed
+OUTPUT result
+t1|540|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 539
+CATEGORY Mixed
+OUTPUT result
+t1|541|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 540
+CATEGORY Mixed
+OUTPUT result
+t1|542|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 541
+CATEGORY Mixed
+OUTPUT result
+t1|543|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 542
+CATEGORY Mixed
+OUTPUT result
+t1|544|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 543
+CATEGORY Mixed
+OUTPUT result
+t1|545|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 544
+CATEGORY Mixed
+OUTPUT result
+t1|546|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 545
+CATEGORY Mixed
+OUTPUT result
+t1|547|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 546
+CATEGORY Mixed
+OUTPUT result
+t1|548|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 547
+CATEGORY Mixed
+OUTPUT result
+t1|549|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 548
+CATEGORY Mixed
+OUTPUT result
+t1|550|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 549
+CATEGORY Mixed
+OUTPUT result
+t1|551|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 550
+CATEGORY Mixed
+OUTPUT result
+t1|552|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 551
+CATEGORY Mixed
+OUTPUT result
+t1|553|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 552
+CATEGORY Mixed
+OUTPUT result
+t1|554|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 553
+CATEGORY Mixed
+OUTPUT result
+t1|555|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 554
+CATEGORY Mixed
+OUTPUT result
+t1|556|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 555
+CATEGORY Mixed
+OUTPUT result
+t1|557|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 556
+CATEGORY Mixed
+OUTPUT result
+t1|558|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 557
+CATEGORY Mixed
+OUTPUT result
+t1|559|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 558
+CATEGORY Mixed
+OUTPUT result
+t1|560|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 559
+CATEGORY Mixed
+OUTPUT result
+t1|561|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 560
+CATEGORY Mixed
+OUTPUT result
+t1|562|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 561
+CATEGORY Mixed
+OUTPUT result
+t1|563|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 562
+CATEGORY Mixed
+OUTPUT result
+t1|564|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 563
+CATEGORY Mixed
+OUTPUT result
+t1|565|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 564
+CATEGORY Mixed
+OUTPUT result
+t1|566|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 565
+CATEGORY Mixed
+OUTPUT result
+t1|567|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 566
+CATEGORY Mixed
+OUTPUT result
+t1|568|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 567
+CATEGORY Mixed
+OUTPUT result
+t1|569|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 568
+CATEGORY Mixed
+OUTPUT result
+t1|570|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 569
+CATEGORY Mixed
+OUTPUT result
+t1|571|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 570
+CATEGORY Mixed
+OUTPUT result
+t1|572|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 571
+CATEGORY Mixed
+OUTPUT result
+t1|573|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 572
+CATEGORY Mixed
+OUTPUT result
+t1|574|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 573
+CATEGORY Mixed
+OUTPUT result
+t1|575|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 574
+CATEGORY Mixed
+OUTPUT result
+t1|576|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 575
+CATEGORY Mixed
+OUTPUT result
+t1|577|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 576
+CATEGORY Mixed
+OUTPUT result
+t1|578|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 577
+CATEGORY Mixed
+OUTPUT result
+t1|579|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 578
+CATEGORY Mixed
+OUTPUT result
+t1|580|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 579
+CATEGORY Mixed
+OUTPUT result
+t1|581|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 580
+CATEGORY Mixed
+OUTPUT result
+t1|582|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 581
+CATEGORY Mixed
+OUTPUT result
+t1|583|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 582
+CATEGORY Mixed
+OUTPUT result
+t1|584|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 583
+CATEGORY Mixed
+OUTPUT result
+t1|585|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 584
+CATEGORY Mixed
+OUTPUT result
+t1|586|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 585
+CATEGORY Mixed
+OUTPUT result
+t1|587|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 586
+CATEGORY Mixed
+OUTPUT result
+t1|588|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 587
+CATEGORY Mixed
+OUTPUT result
+t1|589|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 588
+CATEGORY Mixed
+OUTPUT result
+t1|590|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 589
+CATEGORY Mixed
+OUTPUT result
+t1|591|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 590
+CATEGORY Mixed
+OUTPUT result
+t1|592|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 591
+CATEGORY Mixed
+OUTPUT result
+t1|593|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 592
+CATEGORY Mixed
+OUTPUT result
+t1|594|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 593
+CATEGORY Mixed
+OUTPUT result
+t1|595|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 594
+CATEGORY Mixed
+OUTPUT result
+t1|596|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 595
+CATEGORY Mixed
+OUTPUT result
+t1|597|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 596
+CATEGORY Mixed
+OUTPUT result
+t1|598|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 597
+CATEGORY Mixed
+OUTPUT result
+t1|599|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 598
+CATEGORY Mixed
+OUTPUT result
+t1|600|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 599
+CATEGORY Mixed
+OUTPUT result
+t1|601|+|3
+t2|t1|+|0
+t3|a|+|c
+t4|a|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END
+PROGRAM 600
+CATEGORY Mixed
+OUTPUT result
+t1|602|+|3
+t2|t1|+|0
+t3|b|+|c
+t4|b|+|c
+t5|t4|*|1
+t6|99|=|
+L_yes|b|IFNZ|
+|L_no|GOTO|
+L_yes||LABEL|
+result|t2|+|t5
+|L_end|GOTO|
+L_no||LABEL|
+result|t2|-|t5
+L_end||LABEL|
+END

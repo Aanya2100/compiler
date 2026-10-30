@@ -1,0 +1,8 @@
+category,programs,average_cost_reduction,average_iterations
+"Arithmetic",85,75.00,6.00
+"Nested",86,50.00,4.00
+"CSE",86,40.00,4.00
+"DeadCode",86,33.33,2.00
+"Loop",86,40.00,4.00
+"Conditional",86,75.00,6.00
+"Mixed",85,61.54,8.00
